@@ -27,7 +27,12 @@ samples, guidance on mobile development, and a full API reference.
 ![3](https://user-images.githubusercontent.com/77174900/181385714-e1713a08-b9c7-42f9-ba0d-2e961372590b.PNG)
 ![4](https://user-images.githubusercontent.com/77174900/181385717-e5b2e76e-b671-4f0c-9ded-27aa08e5a80f.PNG)
 ![5](https://user-images.githubusercontent.com/77174900/181385718-a6f27091-c55a-4bf7-9287-403c3fa23bdf.PNG)
+
+- all tasks are scheduled
+
+
 ![6](https://user-images.githubusercontent.com/77174900/181385721-05ae0e5e-dbf5-455b-9dc9-d9b7904c2393.PNG)
+
 ![7](https://user-images.githubusercontent.com/77174900/181385724-9f9e146b-63c6-4c33-a67a-37efc7556b12.PNG)
 
 - local notifications(reminder)

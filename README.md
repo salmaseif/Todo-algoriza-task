@@ -29,6 +29,9 @@ samples, guidance on mobile development, and a full API reference.
 ![5](https://user-images.githubusercontent.com/77174900/181385718-a6f27091-c55a-4bf7-9287-403c3fa23bdf.PNG)
 ![6](https://user-images.githubusercontent.com/77174900/181385721-05ae0e5e-dbf5-455b-9dc9-d9b7904c2393.PNG)
 ![7](https://user-images.githubusercontent.com/77174900/181385724-9f9e146b-63c6-4c33-a67a-37efc7556b12.PNG)
+
+- local notifications(reminder)
+
 ![8](https://user-images.githubusercontent.com/77174900/181385725-d9fe4155-cb6b-43a0-94f3-ac2237b03202.PNG)
 
 - delete any task

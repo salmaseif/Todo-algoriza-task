@@ -30,5 +30,8 @@ samples, guidance on mobile development, and a full API reference.
 ![6](https://user-images.githubusercontent.com/77174900/181385721-05ae0e5e-dbf5-455b-9dc9-d9b7904c2393.PNG)
 ![7](https://user-images.githubusercontent.com/77174900/181385724-9f9e146b-63c6-4c33-a67a-37efc7556b12.PNG)
 ![8](https://user-images.githubusercontent.com/77174900/181385725-d9fe4155-cb6b-43a0-94f3-ac2237b03202.PNG)
-- delete any task 
+
+- delete any task
+
+
 ![9](https://user-images.githubusercontent.com/77174900/181460183-b44c372f-587e-46fe-b55a-4365cb81fcb7.PNG)
